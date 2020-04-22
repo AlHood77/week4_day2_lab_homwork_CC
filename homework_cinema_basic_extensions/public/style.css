@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #7B9DA9;
+}
+
+
+
+.list {
+    list-style-type: none;
+}
+
+li {
+    color: white;
+    width: 130px;
+    border-bottom: 1px solid grey;
+    padding: 2px;
+    margin: 10px;
+}
